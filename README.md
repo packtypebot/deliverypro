@@ -230,6 +230,6 @@ Através do arquivo `customizacao.json`:
 📅 Lançamento previsto: Em breve!
 
 🎯 GARANTA SUA VAGA:
-[\[Link de afiliado\]](https://packtypebot.com.br)
+[\[packtypebot.com.br\]](https://packtypebot.com.br)
 
 #DeliveryPRO #PackTypebot #EvolutionAPI #Delivery #Automação #WhatsApp
